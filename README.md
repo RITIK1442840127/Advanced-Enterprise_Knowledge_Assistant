@@ -80,12 +80,18 @@ streamlit run app.py
 
 ## 🎥 Demo
 
-Demo video available in the repository assets folder.
+Project demo full video link - https://youtu.be/ga7wjPTWdRY?si=0sZ8RzSWPoCyAUES
+
 
 ## 📖 Thesis
 
 M.Tech Thesis:
 **Design and Implementation of an Enterprise Knowledge Assistant using Retrieval-Augmented Generation (RAG) and Large Language Models (LLMs)**
+
+Project thesis report full video link- https://youtube.com/shorts/S6YjLNRjgDE?si=LvFI3r9kzU2vVxyC
+
+Full thesis report link- https://drive.google.com/file/d/1K6gpLBX4_tPrA840J7s3JBaPe2OO5Ik8/view?usp=drivesdk
+
 
 Indian Institute of Technology Patna, 2026.
 
